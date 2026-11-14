@@ -1,0 +1,13 @@
+{
+  "app": "com.colorworlds.game",
+  "channel": "production",
+  "bundleId": null,
+  "nativeVersion": "1.0.0",
+  "minNativeVersion": "1.0.0",
+  "artifactType": "zip",
+  "bundleUrl": null,
+  "sha256": null,
+  "signature": null,
+  "publishedAt": null,
+  "releaseNotes": "No live update has been published yet."
+}
