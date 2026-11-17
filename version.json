@@ -1,13 +1,13 @@
 {
   "app": "com.colorworlds.game",
   "channel": "production",
-  "bundleId": "20261117153915-89f5d69",
+  "bundleId": "20261117181459-e0f5c7f",
   "nativeVersion": "1.0.0",
   "minNativeVersion": "1.0.0",
   "artifactType": "zip",
-  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261117153915-89f5d69.zip",
-  "sha256": "503ce379076f6871f4ff2da9c996e5200c14079a13050c2d6acc3dc1d037630a",
-  "signature": "z1RvgCZTJZsW8/DH3orFFYpDqlLYKi5x+AoDw/XtjpeFoHtshLvg8iICmjwWhJdtX2a3BN3RDUGHIK2E1BKAgVvKyjnDhf2QkQRfZQMf1/Gh3gTScnhm5lRqmBlDM4zzzYRTPMvVo3Qp1C04x+TPQdyfIl+V0ZSdnfuDax815nIsRRYN6J+PmP08OtJlyvfrUbaMyFPpH61bF6ATcfmVW/SKU4C9HehB3uHwVd6OdTpPTL5SwAW6ZHPI8NDeDuehMASG/XAItTwa4gW6FmsV2hTUVR5Ejo+9l63EEl1OSys3OTzTsitUlZpIN8YPiy8FPoID/6BL6r42pr3h7TwjL1alReKOfqLkTQlbjw2NsQ12p/niUjrAg5HQZhHfXZOCqYLV6V0YjUZ1TED2CvMa3YcsAVY13oxP5oV31buyAh94DkXjsGQou2UA34EeH7QFbxCGxz0KYfBwt3NM2ttSDgi0gkZUiJ753jxklNBtFNe7KXqJgA5hpZzKSXCw04qc",
-  "publishedAt": "2026-11-17T15:39:15Z",
-  "releaseNotes": "Bug fixes and improvements"
+  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261117181459-e0f5c7f.zip",
+  "sha256": "e5d70ad2858f9c198444bf8a94dcb9ad221e5a52b524784351db785115390d5c",
+  "signature": "fkXlIga55eDHQdUvpb1m+6N2nQQOLRcJ+I6dQJSCnb3bqlNtStIqYhsjgWjFg/dMrXfY9n1RtTaQI75XqnoQ48+78nCODsHrL8PhmHn6pe9M2wlMWjzykwZ0lISIiL5+rwzdHgRypFCeK0zIDozmZ3L2Jgr7C3Qq6aFfb9x7WQVPpPafqPVcq2YrmUUmJCEm/WY4X0Oie8T6eUoFiVnEhF24hqvbr2Ar7sD4vQV7tz47Qx68DZ3MhlY9G+QMmzCRxwxUmx3ch6MkwanflV25a4eH1FCTLd8CsFr59qzEXkX9N+49Gl7hJgYny6t7wC9cNFF0iala9kEE/8hFVWyg6CA+3VL2GbHALP2s2byik14AvaKCP5R+NmF3XzCZTawXp1uwm0e2/lMOmjZU+bYYef/adlwMv+M8SQNyj7hisz3FUbED+GgfbFx6X7hggnuSo6zTRqtYlvAaQaD/tqXc7e/yrPe1ZvLjBrww2nBVOkZHC+Kb2aklG72S0Mamfg3f",
+  "publishedAt": "2026-11-17T18:14:59Z",
+  "releaseNotes": "Daily Challenge and TimeRush worker optimization, cancellation, timeout and error handling."
 }
