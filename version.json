@@ -1,13 +1,13 @@
 {
   "app": "com.colorworlds.game",
   "channel": "production",
-  "bundleId": "20261117181459-e0f5c7f",
+  "bundleId": "20261117195912-c861db9",
   "nativeVersion": "1.0.0",
   "minNativeVersion": "1.0.0",
   "artifactType": "zip",
-  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261117181459-e0f5c7f.zip",
-  "sha256": "e5d70ad2858f9c198444bf8a94dcb9ad221e5a52b524784351db785115390d5c",
-  "signature": "fkXlIga55eDHQdUvpb1m+6N2nQQOLRcJ+I6dQJSCnb3bqlNtStIqYhsjgWjFg/dMrXfY9n1RtTaQI75XqnoQ48+78nCODsHrL8PhmHn6pe9M2wlMWjzykwZ0lISIiL5+rwzdHgRypFCeK0zIDozmZ3L2Jgr7C3Qq6aFfb9x7WQVPpPafqPVcq2YrmUUmJCEm/WY4X0Oie8T6eUoFiVnEhF24hqvbr2Ar7sD4vQV7tz47Qx68DZ3MhlY9G+QMmzCRxwxUmx3ch6MkwanflV25a4eH1FCTLd8CsFr59qzEXkX9N+49Gl7hJgYny6t7wC9cNFF0iala9kEE/8hFVWyg6CA+3VL2GbHALP2s2byik14AvaKCP5R+NmF3XzCZTawXp1uwm0e2/lMOmjZU+bYYef/adlwMv+M8SQNyj7hisz3FUbED+GgfbFx6X7hggnuSo6zTRqtYlvAaQaD/tqXc7e/yrPe1ZvLjBrww2nBVOkZHC+Kb2aklG72S0Mamfg3f",
-  "publishedAt": "2026-11-17T18:14:59Z",
-  "releaseNotes": "Daily Challenge and TimeRush worker optimization, cancellation, timeout and error handling."
+  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261117195912-c861db9.zip",
+  "sha256": "97b2f5bf42aecdaeac9ef1322cae8402fdc0df8633471fd4bf39db27d2fc1cef",
+  "signature": "l/IdcJO8HEH5kIDlAAK6f39iGohUI78Plzt7iyLADyOdOtqRnbafJSe03OPgZwKZN545VznyV++pqPYxAQs1+m2wfeETnNguZRvos1FGmj2YzgV8YTmu+pN9UVViRyL/zS08b8ta7yhqbxfhWJnjpZWX/hEh4OS009+P0cEQf5SlcTNcunSfbRW1QeeAbfpCZVSPzktRibo+2HkGldSMg3dC6rDvxvkulIth0XK12AwZ/AM3QkP5gbmXzE4rwKXA891e03YHlPc2CFg5o71BixZlYau8RwbhKqoGF+V5OJAYn46u8P7cVFlhL1SuPkat4H+kR5k0riByNDlPeI8Xj9lYffUcgaLHhVZ/UuKgM0crXVFubBGaVrm9XSGK8+6OMIdHmU4KfJTX59cHW9SlKillat+4VHk/Pje9XzTw2dGM+DxahkhxoXtRmYiLCFVrWcBy7QaedDtcN4mKbShpeTqL9owLBBCQ/aOwtjocKJ32081pcklCq8bUMQHgqWjj",
+  "publishedAt": "2026-11-17T19:59:12Z",
+  "releaseNotes": "Tube touch interaction, small-screen layout, Android back navigation priority, and achievement claim regression fixes."
 }
