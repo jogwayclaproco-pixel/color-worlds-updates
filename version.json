@@ -1,13 +1,13 @@
 {
   "app": "com.colorworlds.game",
   "channel": "production",
-  "bundleId": "20261117195912-c861db9",
+  "bundleId": "20261118021650-919134d",
   "nativeVersion": "1.0.0",
   "minNativeVersion": "1.0.0",
   "artifactType": "zip",
-  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261117195912-c861db9.zip",
-  "sha256": "97b2f5bf42aecdaeac9ef1322cae8402fdc0df8633471fd4bf39db27d2fc1cef",
-  "signature": "l/IdcJO8HEH5kIDlAAK6f39iGohUI78Plzt7iyLADyOdOtqRnbafJSe03OPgZwKZN545VznyV++pqPYxAQs1+m2wfeETnNguZRvos1FGmj2YzgV8YTmu+pN9UVViRyL/zS08b8ta7yhqbxfhWJnjpZWX/hEh4OS009+P0cEQf5SlcTNcunSfbRW1QeeAbfpCZVSPzktRibo+2HkGldSMg3dC6rDvxvkulIth0XK12AwZ/AM3QkP5gbmXzE4rwKXA891e03YHlPc2CFg5o71BixZlYau8RwbhKqoGF+V5OJAYn46u8P7cVFlhL1SuPkat4H+kR5k0riByNDlPeI8Xj9lYffUcgaLHhVZ/UuKgM0crXVFubBGaVrm9XSGK8+6OMIdHmU4KfJTX59cHW9SlKillat+4VHk/Pje9XzTw2dGM+DxahkhxoXtRmYiLCFVrWcBy7QaedDtcN4mKbShpeTqL9owLBBCQ/aOwtjocKJ32081pcklCq8bUMQHgqWjj",
-  "publishedAt": "2026-11-17T19:59:12Z",
-  "releaseNotes": "Tube touch interaction, small-screen layout, Android back navigation priority, and achievement claim regression fixes."
+  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261118021650-919134d.zip",
+  "sha256": "93292e2fb72b9d2ef22d1be5b58b7da4fedca5a9a0977060d79b0990cb4b6846",
+  "signature": "RgxMA2TQWQ80lGmk23qbw8VJG3Fp4MD0gLmLMtlT/6wTBcSunfocdR9fApzNgPLlJoWdEJoKqBLcj6pbSoctzAhq8lT5K7NLJ+RUCl3BtGVU/HXfLgN4VNN6HkNJ+3zflp2s18Fi8m2WKNO5u0iriM+E0iNjBmlUAtSs6LRXaW2kt7l/l3Vl6Vt69hSz/T4OjdOLDyxNW7VDlugqtn54pyChuBskqKDP5VP1s89PIJKjA/KEJYS6d0+OUmhE1aBuQdtXbkgC8PQvkV60NFTUUa2H06QFCDPPx165TRtri3mua1O9OcbuoPDuSY18vCnfVpjuDqjg5ExMwByd1XEI21LwmHrliWZn5mldLyXaIAhK9J8Qrn5ZxoIe0+LdY0BBg+OwQuamvDoPu/Snl60aM7VHvbMzgneHfX/3+PcUsGsJEKJyKqdcS0RkNNc+zDCpVRi92irfswhZ5DL4TgXDEmHMzIkuBbIjDup4XHiMFhTNcz8Ddj2bTeIDV4e+d7TA",
+  "publishedAt": "2026-11-18T02:16:50Z",
+  "releaseNotes": "Bug fixes and improvements"
 }
