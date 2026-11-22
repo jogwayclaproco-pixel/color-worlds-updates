@@ -1,13 +1,13 @@
 {
   "app": "com.colorworlds.game",
   "channel": "production",
-  "bundleId": "20261122190450-903ac8d",
+  "bundleId": "20261122192902-1c61023",
   "nativeVersion": "1.0.0",
   "minNativeVersion": "1.0.0",
   "artifactType": "zip",
-  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261122190450-903ac8d.zip",
-  "sha256": "87cac866194087cbe96093a97384eae6958095efe6ec9a45f855090c49312b08",
-  "signature": "XjCGCIIABpbn09gX2O1iTcB1FbeB196F6DSF480BtevnBbG5P2kxpsewq2PL949cC8WgSNbpeHgRap8yJvqRreaJufla5vmgIHzid/rnAlUfFUKETheD/zWKFaHZGrEshvoOKIlVGRWR9i45smq4YLaDbgkGJ2RTkjEfyuBXHOzaBT/rf6C+PBULcDKR096SegPDWofXj+XARPo34vdzwvAQQnTs0EvwDVxTjuldE3sGQKgmxfALpRuruMaam6d3W22yT1+/RayGmfQxBPcKmIF25Jq1hF3x0sb6Fx5g4lpusNgG6LsxBBgZZXzXR+J+UaLQ3Xoy4+1bJCW4LD54HBADuSxtO5u/6S0ZP0TjkBGoPlflINhpNTev720jFA9Rv67V3tx5aBtsoe3tf9Qah8jELPkRn1LRb1X/J+gGfwY7Bm/Gcldnm425JL62fAzRHg+64I4lz0Evdxlz6vSr7GCf4JQDpCmIBQ1MuxgOBmjJIkvB1GQFQcdBIddLzd1j",
-  "publishedAt": "2026-11-22T19:04:50Z",
+  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261122192902-1c61023.zip",
+  "sha256": "6a2f3d5e1fa6c937df01d9c1e9e62accc1ed992d62508ae8e7d8631dd5e383a0",
+  "signature": "q8XfDgv1ifgyb5EM9ozOpYbkjcOjU9Rkv8jser6utM9qwuOP+0kqEoJmiEcSrVgsJFMh0qaD1S2BR4HrZONAZIz+vpAu0zOAFsyq9t0RDYBWUkRkvbd6Mr2KcO3XYmtAL9llYYgYaODU2/RQoVOY3BvVZrLKApkPdakWpi9VyO2s6SqVjnTaMJ0WocSj+jRT6fs0aKtUdywCVGSppJ7TGGIKDQanrqWp/XyqGxHo8lYpKlbAQS+xXzi1jJKv+bUerRdGmuudKJESNPdR/CjLhzgbZn1CO8Pg4KUXjtk6WX1sdpgyN+A5cecHVqk3l2NnYGdLJjq1HDNx8Iag+3JvgLfHP5NAFrCMeKCzFMfw+/HSaubRlAWbPYgGSxhriQd6CZfucf+HQtqOcSsV5wfcXwqTatsIvYgjoU8UQHFwteNzD1gEd8GnVCwnsuxSLBD5L/GmR/xUSjXz35XPp6AholNumXtgKmHQPt6OA46mChXVfxrA/J64Z+x4OEPPJscI",
+  "publishedAt": "2026-11-22T19:29:02Z",
   "releaseNotes": "Bug fixes and improvements"
 }
