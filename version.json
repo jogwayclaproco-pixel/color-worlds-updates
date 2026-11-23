@@ -1,13 +1,13 @@
 {
   "app": "com.colorworlds.game",
   "channel": "production",
-  "bundleId": "20261123000354-5613e7c",
+  "bundleId": "20261123003130-c0e117c",
   "nativeVersion": "1.0.0",
   "minNativeVersion": "1.0.0",
   "artifactType": "zip",
-  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261123000354-5613e7c.zip",
-  "sha256": "3dd9950b3b093f632f486f60efdaf5815ddd49b656a82f7adc222383335e8874",
-  "signature": "LpTGjzItNg5Hoy9SfoxZGQXrYe3/0Zq82Zd0TFRqhrz2MTmDsvvGqQyljqTIEqRsFfERaXYGbnCHheiMaShAvt+laN3mvIuTzlxxlFWCJJalTqhup/d/Z4XkylxtGMapJ/6iLrtf0ihnm+1LSYvmPFX/2pa0h+Fip8hi3Ts3dnHQMYiSWDnRfCGkOTMEHStf/5oB68PJvLMPl43tbsmHIYpiqCcuS/PbdnFxr4mfxiGgL6DWuwA+Iqlulz+3nCNQnjnVPQWf1oyaui2+9nmm8EaWOODFAzgpTG7y1ek5Df+4reDhhF4kkl3/56ksXyN7mgZw5Smo5ADju0MsJ5lNSvcD1KoZoOcwF5jIazSCvrE4+ykkGDQBD/qAzCdHfiXoXfJh3BfUk0Lu64xo6N+2p1DQbEbVmvvejPozB2LOMsyPVfGViTkujFgcksQb10oedTfJOMcD6NGJiOerh8fZmAkfavVlmaeGNh0168Nxi3FKxdGvS2MIbE78jDm070Uw",
-  "publishedAt": "2026-11-23T00:03:54Z",
-  "releaseNotes": "Fix white screen during level transitions - worker fallback and race condition protection"
+  "bundleUrl": "https://raw.githubusercontent.com/jogwayclaproco-pixel/color-worlds-updates/main/bundles/20261123003130-c0e117c.zip",
+  "sha256": "c23dae5eda350a5a2a29ae08aa5627c415c9e516136fbabf9a9ad616bde357eb",
+  "signature": "QaX8g3pI+VnG5WBMepDwtKUt7exAcHOxc9gwkESwV4/KiQ+HuJSxw3++JIy6cH7b/RJPAI8iEq4F6foIBQAdVDZfTIjFQNQtFr7PtPmhDNnwpbbzF0XzBa+m8lDDnRDaXV3GJlbE3M2SvISuO5V2yM+o2d9jV3e2VUwqaNNk4pC3IYAzg+4Jkj8BeIDmX86ECFYPONBvKSD3QXU8+6RDf0dTNNY4iGdn9G1FwMMUZxG9wq/+t3CYn/eLM+eA8t9FSiJlTJ1NhNGc3uw1QImYAhQt/sK3KcvyuIyqc+Fv9koRkJkAYbiA5rKi/0arsZP0976CSqPh2ubPV5MEMevNJL/AxoymOvOpOacHf6TsFRzdvm9iWR5j4GxhRMPkKqeyAMIdEPzVGvPSy7ySCcqaCSqCNPgJgYR/GL91VFnGkFR3K1oYGb18OxTEAw9HcYi5fJQH9zM2FwmEfSc/2x6JRvLX5VyQ6QOPYlsvJgSagVCb8FMhC0XGhR4yZ+fSUGQ6",
+  "publishedAt": "2026-11-23T00:31:30Z",
+  "releaseNotes": "Bug fixes and improvements"
 }
